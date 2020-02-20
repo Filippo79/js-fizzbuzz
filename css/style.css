@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+.stampa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 800px;
+    border: 2px solid darkgreen;
+    border-radius: 20%;
+}
